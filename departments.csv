@@ -1,0 +1,11 @@
+DepartmentID,DepartmentName,ManagerID
+1,Human Resources (HR),149
+2,Finance,168
+3,Information Technology (IT),62
+4,Customer Support,4
+5,Research & Development (R&D),255
+6,Administration,383
+7,Marketing,221
+8,Business Development,90
+9,Sales,67
+10,Operations,195
